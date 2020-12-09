@@ -1,2 +1,2 @@
 # Internship-Research-Paper-Implemetation
-This repository contains the paper along with the python notebook
+This repository contains the research paper along with the code in python notebook.
